@@ -10,6 +10,7 @@ const musics = [
   { name: "Kal ho na ho", path: "/assets/khnh.mp3" },
   { name: "DDLJ", path: "/assets/ddlj2.m4a" },
   { name: "Country roads", path: "/assets/take me home.mp3" },
+  { name: "Hasi ban gaye", path: "/assets/hhbg.m4a" },
 ];
 
 export default function MusicPlayer() {
