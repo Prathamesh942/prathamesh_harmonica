@@ -11,6 +11,7 @@ const musics = [
   { name: "DDLJ", path: "/assets/ddlj2.m4a" },
   { name: "Country roads", path: "/assets/take me home.mp3" },
   { name: "Hasi ban gaye", path: "/assets/hhbg.m4a" },
+  { name: "My heart will go on", path: "/assets/titanic.m4a" },
 ];
 
 export default function MusicPlayer() {
