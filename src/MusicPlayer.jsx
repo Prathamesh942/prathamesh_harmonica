@@ -12,6 +12,7 @@ const musics = [
   { name: "Country roads", path: "/assets/take me home.mp3" },
   { name: "Hasi ban gaye", path: "/assets/hhbg.m4a" },
   { name: "My heart will go on", path: "/assets/titanic.m4a" },
+  { name: "500 Miles", path: "/assets/500miles.mp3"}
 ];
 
 export default function MusicPlayer() {
